@@ -1,0 +1,15 @@
+{
+  "name": "StartADAM",
+  "author": {
+    "name": "Adam",
+    "email": "hello@startadam.com",
+    "url": "https://startadam.com/"
+  },
+  "location": {
+    "support": {}
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "singleInstall": true,
+  "private": false
+}
